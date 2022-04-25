@@ -10,7 +10,7 @@
   <img align="center" alt="Jami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jami-Ts" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Jami-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pw/AM-JKLWWNAqoMGhCwgdEZdpGN34qx9CCQClvyevfFzo2KXO8jbIzOqAXLEx86PhcPutf9IaWTPKbsJT_sDPLZwfheTXfOpnu3NJDN1lc6ZJdnaRaXGqnfFHb05Decw_TCGJ4Ca_1gCDqr-q-q_RJiOMpaIV0=s600-no?authuser=0">
+   <img align="right" alt="Jami-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pw/AM-JKLU7i8ws0T2igzSWVJsW7lpdGLvSIo0sEgUsw4KFCs9GQHgJnHogtmxlsFc1OdmbRiUPRnKF5R96WVM34F40nKX54oxxy0GmjUDg7DCsIGD61TXmCYWKZFmQRILMsTeiwvqxJwP0CuEHkBSS8GTtvIyY=s600-no?authuser=0">
 </div>
   
   ##
